@@ -8,7 +8,7 @@ It is meant to be used by other plugins as a "helper".
 
 ## Installation
 
-Go to the [latest release]() page and download the `user.js` file.
+Go to the [latest release](https://github.com/elkuku/iitc-kuku-helper-handlebars/releases/latest) page and download the `user.js` file.
 
 ## Usage
 
