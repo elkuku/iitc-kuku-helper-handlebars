@@ -1,9 +1,10 @@
 {
-  "name": "IITC plugin: Iitc-Helper-Handlebars",
-  "id": "iitc_plugin_IitcHelperHandlebars",
+  "name": "IITC plugin: Helper-Handlebars",
+  "id": "iitc_plugin_helper_handlebars",
+  "category": "Helper",
   "description": "A helper plugin that provides templating functionality using Handlebars",
   "author": "elkuku",
   "entry": "src/Main.ts",
-  "minimize": false,
+  "minimize": true,
   "changelog": ""
 }
