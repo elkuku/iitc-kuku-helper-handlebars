@@ -1,5 +1,5 @@
 {
-  "name": "IITC plugin: Helper-Handlebars",
+  "name": "IITC plugin: KuKuHelper-Handlebars",
   "id": "iitc_plugin_helper_handlebars",
   "category": "Helper",
   "description": "A helper plugin that provides templating functionality using Handlebars",
