@@ -5,6 +5,6 @@
   "description": "A helper plugin that provides templating functionality using Handlebars",
   "author": "elkuku",
   "entry": "src/Main.ts",
-  "minimize": true,
-  "changelog": ""
+  "minimize": false,
+  "downloadURL": "https://elkuku.github.io/iitc-kuku-helper-handlebars/files"
 }
