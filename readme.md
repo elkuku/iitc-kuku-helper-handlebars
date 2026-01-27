@@ -28,11 +28,10 @@ console.log(template(data))
 
 ### `compile`
 
-See: [Handlebars.compile()](https://handlebarsjs.com/api-reference/compilation.html#handlebars-compile-template-options)
+Compiles a template so it can be executed immediately. ([docu](https://handlebarsjs.com/api-reference/compilation.html#handlebars-compile-template-options))
 
 ### `registerHelper`
-Registers helpers accessible by any template in the environment.
-See: [Handlebars.registerHelper()](https://handlebarsjs.com/api-reference/runtime.html#handlebars-registerhelper-name-helper)
+Registers helpers accessible by any template in the environment. ([docu](https://handlebarsjs.com/api-reference/runtime.html#handlebars-registerhelper-name-helper))
 
 ----
 
